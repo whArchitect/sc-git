@@ -4,7 +4,7 @@ public class User {
     private String name;
     private String psd;
     private String email;
-
+    private String phone;
 
     public String getName() {
         return name;
