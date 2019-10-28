@@ -5,7 +5,7 @@ public class User {
     private String psd;
     private String email;
     private String phone;
-
+    String hello;
     public String getEmail() {
         return email;
     }
